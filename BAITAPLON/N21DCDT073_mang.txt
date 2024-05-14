@@ -1,0 +1,425 @@
+go
+go (v) - đi - VD: I want to go to the park.
+going (n) - việc đi - VD: Her going to the party was unexpected.
+gone (adj) - đã đi - VD: He's already gone to the store.
+went (v) - đã đi (quá khứ của "go") - VD: Yesterday, we went to the beach.
+come
+come (v) - đến - VD: Please come to the meeting on time.
+coming (n) - sự đến - VD: The coming of spring brings warmer weather.
+came (v) - đã đến (quá khứ của "come") - VD: Last night, they came to visit us.
+coming (adj) - sắp đến - VD: The coming weekend is going to be busy.
+speak
+speak (v) - nói - VD: Can you speak French?
+speaking (n) - việc nói - VD: His speaking at the conference impressed everyone.
+spoken (adj) - đã nói - VD: The words spoken by the teacher were inspiring.
+spoke (v) - đã nói (quá khứ của "speak") - VD: She spoke with confidence during the presentation.
+do
+do (v) - làm - VD: What are you going to do this weekend?
+doing (n) - việc làm - VD: His doing the dishes without being asked was appreciated.
+done (adj) - đã làm - VD: The work is done, and now we can relax.
+did (v) - đã làm (quá khứ của "do") - VD: She did her homework before dinner.
+eat
+eat (v) - ăn - VD: Let's eat dinner together.
+eating (n) - việc ăn - VD: Her eating habits are quite healthy.
+eaten (adj) - đã ăn - VD: The food was already eaten when I arrived.
+ate (v) - đã ăn (quá khứ của "eat") - VD: Yesterday, we ate pizza for lunch.
+drink
+drink (v) - uống - VD: I need to drink more water.
+drinking (n) - việc uống - VD: His drinking of alcohol concerned his family.
+drunk (adj) - đã uống (cồn) - VD: He was drunk after too many beers.
+drank (v) - đã uống (quá khứ của "drink") - VD: Last night, we drank juice with dinner.
+sleep
+sleep (v) - ngủ - VD: I like to sleep early.
+sleeping (n) - việc ngủ - VD: Her sleeping habits have improved lately.
+slept (adj) - đã ngủ - VD: He was already asleep when I called.
+slept (v) - đã ngủ (quá khứ của "sleep") - VD: Last night, I slept like a baby.
+study
+study (v) - học - VD: She needs to study for her exam.
+studying (n) - việc học - VD: His studying of the subject paid off in the end.
+studied (adj) - đã học - VD: The studied approach to problem-solving was effective.
+studied (v) - đã học (quá khứ của "study") - VD: Last night, she studied until late.
+run
+run (v) - chạy - VD: The children love to run in the park.
+running (n) - việc chạy - VD: His running in the race was impressive.
+ran (v) - đã chạy (quá khứ của "run") - VD: Yesterday, I ran five kilometers.
+run (n) - quãng đường chạy - VD: It's a long run from here to the store.
+jump
+jump (v) - nhảy - VD: The cat likes to jump onto the table.
+jumping (n) - việc nhảy - VD: His jumping over the fence surprised us.
+jumped (v) - đã nhảy (quá khứ của "jump") - VD: Last summer, we jumped into the lake.
+jump (n) - sự nhảy - VD: It was a high jump over the hurdle.
+good
+good (adj) - tốt - VD: He did a good job on the project.
+goodness (n) - lòng tốt - VD: Her goodness was evident in her charitable actions.
+goodly (adj) - đáng khen ngợi - VD: He made a goodly amount of money from his investments.
+goodness (interj) - thán từ diễn đạt ngạc nhiên - VD: Goodness, I didn't expect to see you here!
+bad
+bad (adj) - xấu - VD: It was a bad experience.
+badly (adv) - một cách tồi tệ - VD: The situation was badly managed.
+badness (n) - sự xấu - VD: The badness of the weather forced us to cancel the picnic.
+bad (n) - kẻ xấu - VD: He's not a bad person, just misunderstood.
+beautiful
+beautiful (adj) - đẹp - VD: The sunset was beautiful.
+beautifully (adv) - một cách đẹp đẽ - VD: The garden was beautifully landscaped.
+beauty (n) - vẻ đẹp - VD: She admired the beauty of the landscape.
+beautify (v) - làm đẹp - VD: They decided to beautify the neighborhood park.
+smoking
+smoking (adj) - hút thuốc - VD: Smoking is not allowed in this area.
+smoker (n) - người hút thuốc - VD: He's been a smoker for years.
+smoke-free (adj) - không hút thuốc - VD: This restaurant is completely smoke-free.
+secondhand smoke (n) - khói thuốc lá cũ - VD: Secondhand smoke can be harmful to non-smokers.
+joyful
+joyful (adj) - vui vẻ - VD: She had a joyful expression on her face.
+joyfully (adv) - một cách vui vẻ - VD: They danced joyfully at the celebration.
+joy (n) - niềm vui - VD: His arrival brought joy to the family.
+rejoice (v) - mừng rỡ - VD: They rejoiced at the news of their friend's success.
+sad
+sad (adj) - buồn - VD: She felt sad after hearing the news.
+sadness (n) - sự buồn - VD: The sadness in her eyes was evident.
+sadder (adj) - buồn hơn - VD: The sadder songs always make her cry.
+saddest (adj) - buồn nhất - VD: It was the saddest day of her life.
+apple
+apple (n) - quả táo - VD: apple is a fruit.
+documentary
+Document (n) - Tài liệu - VD: She filed the important document.
+Document (v) - Ghi chép lại thông tin hoặc sự kiện - VD: He documented his travel experiences.
+Documentarian (n) - Nhà làm phim tài liệu - VD: The documentarian interviewed many locals for the film.
+drama
+Dramatist (n) - Nhà soạn kịch - VD: Shakespeare is a famous dramatist.
+Dramatize (v) - Biến thành kịch - VD: They dramatized the historical events.
+Dramatically (adv) - Một cách nghệ thuật hoặc cảm động - VD: The story ends dramatically.
+Dramatization (n) - Quá trình làm thành kịch - VD: The dramatization of the novel was a success.
+draw
+Drawer (n) - Người vẽ, người kéo ra ngăn kéo - VD: The drawer sketched a beautiful portrait.
+Drawing (n) - Bản vẽ - VD: She showed me her drawing.
+Draw (v) - Kéo, vẽ - VD: He can draw well.
+dress
+Dress (n) - Váy, quần áo - VD: She wore a red dress.
+Dresser (n) - Tủ chứa quần áo - VD: The dresser is full of clothes.
+Dressing (n) - Sự mặc đồ, mỹ phẩm - VD: She spent an hour on her dressing.
+drive
+Driver (n) - Tài xế - VD: The driver took us to the airport.
+Drivable (a) - Có thể lái được - VD: The car is in a drivable condition.
+Drive (v) - Lái xe - VD: He drives to work every day.
+Driveway (n) - Lối vào - VD: The car is parked in the driveway.
+drip
+Drip (n) - Giọt nước - VD: There was a drip from the faucet.
+Drip (v) - Rơi nhỏ giọt - VD: Water dripped from the ceiling.
+Drippy (a) - Ướt nhẹp - VD: His shirt was drippy after the rain.
+dry
+Dry (a) - Khô - VD: The clothes are dry now.
+Dryness (n) - Sự khô - VD: The dryness of the desert is extreme.
+Dryer (n) - Máy sấy, người làm khô - VD: The dryer broke down.
+duty
+Duty (n) - Nhiệm vụ - VD: It's my duty to help you.
+Dutiful (a) - Trách nhiệm - VD: He is a dutiful son.
+Dutifully (adv) - Một cách trách nhiệm - VD: She dutifully finished her homework.
+dynamite
+Dynamite (n) - Thuốc nổ - VD: They used dynamite for mining.
+Dynamite (v) - Nổ bằng thuốc nổ - VD: They dynamited the old building.
+Dynamism (n) - Năng động, sự sôi nổi - VD: The dynamism of the city is impressive.
+eager
+Eagerness (n) - Sự hăng hái - VD: His eagerness to learn is admirable.
+Eagerly (adv) - Một cách hăng hái - VD: The students listened eagerly.
+Eager (adj) - Hăng hái - VD: She is eager to start the project.
+laugh
+laugh (v) - cười - VD: The joke made everyone laugh.
+laughing (n) - việc cười - VD: Her laughing echoed through the room.
+laughed (v) - đã cười (quá khứ của "laugh") - VD: Last night, we laughed until our stomachs hurt.
+cry
+cry (v) - khóc - VD: She didn't want to cry in front of everyone.
+crying (n) - việc khóc - VD: His crying over the sad movie touched her heart.
+cried (v) - đã khóc (quá khứ của "cry") - VD: Yesterday, she cried when she lost her wallet.
+fear
+fear (v) - lo sợ - VD: She fears spiders.
+fearful (adj) - sợ hãi - VD: His fearful expression indicated that something was wrong.
+feared (v) - đã sợ (quá khứ của "fear") - VD: Last summer, she feared for her safety.
+love
+love (v) - yêu - VD: They love spending time together.
+loving (adj) - đầy tình yêu - VD: Her loving gaze melted his heart.
+loved (v) - đã yêu (quá khứ của "love") - VD: Last summer, they loved exploring new places.
+hate
+hate (v) - ghét - VD: She hated the taste of broccoli.
+hating (n) - sự ghét - VD: His hating of injustice fueled his activism.
+hated (v) - đã ghét (quá khứ của "hate") - VD: Yesterday, she hated having to wait in line.
+hurt
+hurt (v) - đau - VD: He hurt his knee while playing soccer.
+hurting (n) - việc đau - VD: Her hurting from the breakup was evident in her eyes.
+hurt (adj) - bị tổn thương - VD: The hurt feelings lingered long after the argument.
+hurt (v) - gây tổn thương (quá khứ của "hurt") - VD: Last month, he hurt his back lifting boxes.
+happy
+happy (adj) - vui - VD: They were happy to see each other again.
+happiness (n) - sự hạnh phúc - VD: His happiness knew no bounds when he got the job offer.
+happier (adj) - vui hơn - VD: The happier times seemed like a distant memory.
+happiest (adj) - hạnh phúc nhất - VD: It was the happiest day of her life.
+worry
+worry (v) - lo lắng - VD: She worries about her children when they're not home.
+worrying (n) - sự lo lắng - VD: His worrying about the exam kept him up at night.
+worried (adj) - lo lắng - VD: The worried expression on her face was hard to miss.
+worried (v) - đã lo lắng (quá khứ của "worry") - VD: Last week, she worried about her health.
+happiness
+happiness (n) - hạnh phúc - VD: She found true happiness in simple moments.
+happy (adj) - hạnh phúc - VD: The happy couple danced under the stars.
+happier (adj) - hạnh phúc hơn - VD: She's never been happier than she is now.
+happiest (adj) - hạnh phúc nhất - VD: Their wedding day was the happiest day of their lives.
+communicate
+communicate (v) - giao tiếp - VD: Effective communication is key in any relationship.
+communication (n) - sự giao tiếp - VD: His communication skills helped him succeed in his career.
+communicated (v) - đã giao tiếp (quá khứ của "communicate") - VD: Last month, they communicated via email.
+science
+science (n) - khoa học - VD: She loves studying science.
+scientist (n) - nhà khoa học - VD: The scientist made a breakthrough.
+scientific (adj) - thuộc về khoa học - VD: The scientific community is excited about the discovery.
+scientifically (adv) - một cách khoa học - VD: The experiment was conducted scientifically.
+inform
+inform (v) - thông báo - VD: Please inform me of any changes.
+information (n) - thông tin - VD: The information is accurate.
+informative (adj) - cung cấp nhiều thông tin - VD: The lecture was very informative.
+informer (n) - người cung cấp thông tin - VD: The informer gave the police crucial details.
+informant (n) - người cung cấp thông tin (thường là trong ngữ cảnh nghiên cứu hoặc điều tra) - VD: The informant shared valuable insights.
+educate
+educate (v) - giáo dục - VD: They aim to educate the public.
+education (n) - sự giáo dục - VD: Education is important for everyone.
+educator (n) - nhà giáo dục - VD: She is a renowned educator.
+educational (adj) - mang tính giáo dục - VD: The trip was very educational.
+educative (adj) - có tính giáo dục - VD: The book is highly educative.
+create
+create (v) - tạo ra - VD: He created a masterpiece.
+creation (n) - sự sáng tạo - VD: The creation of the project took months.
+creator (n) - người sáng tạo - VD: He is the creator of the popular show.
+creative (adj) - sáng tạo - VD: She has a creative mind.
+creativity (n) - tính sáng tạo - VD: Her creativity knows no bounds.
+dream
+dream (v) - mơ - VD: She dreams of traveling the world.
+dreaming (n) - việc mơ - VD: Her dreaming of a better future keeps her going.
+dreamed/dreamt (v) - đã mơ (quá khứ của "dream") - VD: Last night, she dreamed of flying.
+wish
+wish (v) - ước - VD: I wish for peace in the world.
+wishing (n) - sự ước - VD: His wishing for a promotion was evident in his efforts.
+wished (v) - đã ước (quá khứ của "wish") - VD: She wished for a better job.
+imagine
+imagine (v) - tưởng tượng - VD: Can you imagine living on another planet?
+imagining (n) - việc tưởng tượng - VD: Her imagining of far-off lands fueled her wanderlust.
+imagined (v) - đã tưởng tượng (quá khứ của "imagine") - VD: As a child, she imagined herself as a famous singer.
+plan
+plan (v) - lập kế hoạch - VD: Let's plan our vacation.
+planning (n) - việc lập kế hoạch - VD: His planning of the project was meticulous.
+planned (v) - đã lập kế hoạch (quá khứ của "plan") - VD: Last year, they planned a surprise party.
+learn
+learn (v) - hằn học - VD: We learn from our mistakes.
+learning (n) - sự học hỏi - VD: His learning from past experiences made him wiser.
+learned/learnt (v) - đã hằn học (quá khứ của "learn") - VD: She learned a valuable lesson about trust.
+learning (adj) - đang học - VD: The learning process never ends.
+think
+think (v) - suy nghĩ - VD: Take some time to think before you answer.
+thinking (n) - sự suy nghĩ - VD: Her thinking about the problem led to a solution.
+thought (v) - đã suy nghĩ (quá khứ của "think") - VD: Last night, she thought about her future.
+decide
+decide (v) - quyết định - VD: She decided to go to the market.
+decision (n) - quyết định - VD: His decision was final.
+decisive (adj) - quyết đoán - VD: She was known for her decisive actions.
+decisively (adv) - một cách quyết đoán - VD: He acted decisively to solve the problem.
+invent
+invent (v) - phát minh - VD: He invented a new device.
+invention (n) - sự phát minh - VD: The invention changed the world.
+inventor (n) - nhà phát minh - VD: Thomas Edison was a great inventor.
+inventive (adj) - có tính sáng tạo - VD: She has an inventive mind.
+perform
+perform (v) - biểu diễn - VD: They will perform on stage.
+performance (n) - sự biểu diễn - VD: The performance was stunning.
+performer (n) - người biểu diễn - VD: The performer captivated the audience.
+performing (adj) - thuộc về biểu diễn - VD: She is in a performing arts school.
+produce
+produce (v) - sản xuất - VD: They produce high-quality goods.
+product (n) - sản phẩm - VD: This is our best-selling product.
+production (n) - sự sản xuất - VD: The production has increased.
+producer (n) - nhà sản xuất - VD: The producer invested in the movie.
+productive (adj) - có năng suất - VD: She had a productive day.
+productivity (n) - năng suất - VD: Productivity is crucial for success.
+use
+use (v) - sử dụng - VD: Please use this tool carefully.
+useful (adj) - hữu ích - VD: This guide is very useful.
+useless (adj) - vô ích - VD: The old machine is useless now.
+user (n) - người sử dụng - VD: The user interface is friendly.
+usage (n) - cách sử dụng - VD: The correct usage is important.
+using (n) - việc sử dụng - VD: The using of smartphones has increased.
+improve
+improve (v) - cải thiện - VD: She wants to improve her skills.
+improvement (n) - sự cải thiện - VD: There was a noticeable improvement.
+improved (adj) - được cải thiện - VD: The improved version is much better.
+understand
+understand (v) - hiểu - VD: Do you understand the instructions?
+understanding (n) - sự hiểu biết - VD: A good understanding of the topic is essential.
+understandable (adj) - có thể hiểu được - VD: His explanation was clear and understandable.
+misunderstand (v) - hiểu lầm - VD: I hope you don't misunderstand my intentions.
+misunderstanding (n) - sự hiểu lầm - VD: Let's clear up this misunderstanding.
+misunderstood (adj) - bị hiểu lầm - VD: He felt misunderstood by his colleagues.
+yellow
+yellow (adj/n) - màu vàng - VD: The sunflower is yellow.
+yellowish (adj) - màu vàng nhạt - VD: The walls had a yellowish tint.
+yellowing (adj) - bị phai màu vàng - VD: The old book's pages were yellowing.
+yellowed (adj) - đã phai màu vàng - VD: The document was old and yellowed.
+copper
+copper (n) - đồng (kim loại) - VD: The wire is made of copper.
+coppery (adj) - có màu đồng - VD: The sunset had a coppery glow.
+copperhead (n) - loại rắn độc - VD: Watch out for copperheads in this area.
+copperware (n) - đồ đồng - VD: The kitchen displayed beautiful copperware.
+copperplate (n) - bản in từ đồng - VD: The artist used a copperplate for etching.
+gold
+gold (n) - vàng (kim loại) - VD: She wore a necklace made of gold.
+golden (adj) - màu vàng hoặc giống vàng - VD: The golden sunset painted the sky.
+gilded (adj) - mạ vàng - VD: The frame was gilded with gold leaf.
+goldsmith (n) - thợ kim hoàn - VD: The goldsmith crafted exquisite jewelry.
+goldmine (n) - mỏ vàng - VD: The region was known for its rich goldmine.
+silver
+silver (n) - bạc (kim loại) - VD: The jewelry was made of silver.
+silvery (adj) - màu bạc hoặc giống bạc - VD: The moon cast a silvery light.
+silverware (n) - đồ bạc - VD: The dining table was set with elegant silverware.
+silver-plated (adj) - mạ bạc - VD: The tray was silver-plated for a luxurious look.
+diamond
+diamond (n) - kim cương (kim loại) - VD: She wore a necklace adorned with diamonds.
+diamond-studded (adj) - trang sức kim cương - VD: Her engagement ring was diamond-studded.
+diamond-cut (adj) - được cắt kim cương - VD: The glass had a diamond-cut pattern.
+diamond mine (n) - mỏ kim cương - VD: The country's economy relies heavily on its diamond mines.
+red
+red (adj/n) - đỏ - VD: The apple is red.
+reddish (adj) - màu đỏ nhạt - VD: Her cheeks turned reddish when she blushed.
+redness (n) - sự đỏ - VD: The redness of the sunset was breathtaking.
+green
+green (adj/n) - xanh lá cây - VD: The grass is green.
+greenish (adj) - màu xanh nhạt - VD: The sky had a greenish tint before the storm.
+greenery (n) - cảnh quan xanh tươi - VD: The park was full of lush greenery.
+blue
+blue (adj/n) - xanh dương - VD: The sky is blue.
+bluish (adj) - màu xanh nhạt - VD: The bruise on his arm was bluish.
+blueness (n) - sự xanh dương - VD: The blueness of the ocean was mesmerizing.
+pink
+pink (adj/n) - hồng - VD: The flower is pink.
+pinkish (adj) - màu hồng nhạt - VD: The sky turned pinkish as the sun set.
+pinkness (n) - sự hồng - VD: The pinkness of her cheeks indicated embarrassment.
+orange
+orange (adj/n) - cam - VD: The fruit is orange.
+orangish (adj) - màu cam nhạt - VD: The sunset had an orangish hue.
+oranges (n) - quả cam - VD: She bought a bag of oranges from the market.
+purple
+purple (adj/n) - tím - VD: The flower is purple.
+purplish (adj) - màu tím nhạt - VD: His bruise was purplish in color.
+purpleness (n) - sự tím - VD: The purpleness of the sky indicated the coming storm.
+black
+black (adj/n) - đen - VD: The cat is black.
+blackish (adj) - màu đen nhạt - VD: The coffee had a blackish tint.
+blackness (n) - sự đen - VD: The blackness of the night was interrupted only by stars.
+white
+white (adj/n) - trắng - VD: The snow is white.
+whitish (adj) - màu trắng nhạt - VD: The walls were painted a whitish color.
+whiteness (n) - sự trắng - VD: The whiteness of her teeth was striking.
+large
+large (adj) - lớn - VD: The elephant is large.
+larger (adj) - lớn hơn - VD: The larger box is over there.
+largely (adv) - phần lớn - VD: His success was largely due to hard work.
+largeness (n) - sự lớn - VD: The largeness of the room was impressive.
+small
+small (adj) - nhỏ - VD: The kitten is small.
+smaller (adj) - nhỏ hơn - VD: The smaller box is easier to carry.
+smallest (adj) - nhỏ nhất - VD: The smallest details can make a big difference.
+smallness (n) - sự nhỏ - VD: The smallness of the apartment was cozy.
+tall
+tall (adj) - cao - VD: The basketball player is tall.
+taller (adj) - cao hơn - VD: The taller building casts a shadow over the park.
+tallest (adj) - cao nhất - VD: The tallest mountain in the range is Mount Everest.
+tallness (n) - chiều cao - VD: His tallness made him stand out in the crowd.
+short
+short (adj) - ngắn - VD: The story is short.
+shorter (adj) - ngắn hơn - VD: The shorter version is easier to understand.
+shortest (adj) - ngắn nhất - VD: The shortest distance between two points is a straight line.
+shortness (n) - sự ngắn - VD: The shortness of time forced them to make quick decisions.
+long
+long (adj) - dài - VD: The river is long.
+longer (adj) - dài hơn - VD: The longer rope is needed to reach the ground.
+longest (adj) - dài nhất - VD: The longest day of the year is in June.
+length (n) - chiều dài - VD: The length of the table is six feet.
+walk
+walk (v) - đi bộ - VD: Let's walk to the store instead of driving.
+walking (n) - việc đi bộ - VD: His walking in the morning helps him clear his mind.
+walked (v) - đã đi bộ (quá khứ của "walk") - VD: Last weekend, we walked along the beach.
+skate
+skate (v) - lướt - VD: He loves to skate at the ice rink.
+skating (n) - việc lướt - VD: Her skating on the frozen lake was graceful.
+skated (v) - đã lướt (quá khứ của "skate") - VD: Last winter, they skated every weekend.
+fly
+fly (v) - bay - VD: Birds can fly in the sky.
+flying (n) - việc bay - VD: His flying on an airplane for the first time was exhilarating.
+flew (v) - đã bay (quá khứ của "fly") - VD: Last summer, we flew to Europe for vacation.
+swim
+swim (v) - bơi - VD: She learned to swim at a young age.
+swimming (n) - việc bơi - VD: His swimming in the ocean was refreshing.
+swam (v) - đã bơi (quá khứ của "swim") - VD: Yesterday, we swam in the pool.
+rock
+rock (v) - lênh đênh - VD: The boat rocked gently on the waves.
+rocking (n) - việc lênh đênh - VD: The rocking of the cradle put the baby to sleep.
+rocked (v) - đã lênh đênh (quá khứ của "rock") - VD: Last night, the wind rocked the trees.
+meet
+meet (v) - gặp gỡ - VD: Let's meet for coffee tomorrow.
+meeting (n) - cuộc gặp gỡ - VD: His meeting with the client went well.
+met (v) - đã gặp gỡ (quá khứ của "meet") - VD: Last week, she met her old friend.
+talk
+talk (v) - nói chuyện - VD: They like to talk about their favorite books.
+talking (n) - việc nói chuyện - VD: Her talking with her best friend always cheers her up.
+talked (v) - đã nói chuyện (quá khứ của "talk") - VD: Yesterday, they talked for hours.
+bond
+bond (v) - thân mật - VD: They bonded over their shared love of music.
+bonding (n) - sự thân mật - VD: Their bonding strengthened their friendship.
+bonded (v) - đã thân mật (quá khứ của "bond") - VD: Last summer, they bonded during their road trip.
+chat
+chat (v) - trò chuyện - VD: They like to chat about their day over dinner.
+chatting (n) - việc trò chuyện - VD: Her chatting with her sister always makes her feel better.
+chatted (v) - đã trò chuyện (quá khứ của "chat") - VD: Yesterday, they chatted online for hours.
+befriend
+befriend (v) - kết bạn - VD: She befriended her new neighbor by offering to help.
+befriending (n) - việc kết bạn - VD: His befriending of the new student made her feel welcome.
+befriended (v) - đã kết bạn (quá khứ của "befriend") - VD: Last semester, she befriended a classmate.
+envy
+envy (v) - ghen tỵ - VD: She envied her friend's success.
+envying (n) - sự ghen tỵ - VD: His envying of his brother's achievements strained their relationship.
+envied (v) - đã ghen tỵ (quá khứ của "envy") - VD: Last year, she envied her colleague's promotion.
+work
+work (v) - làm việc - VD: He works at the office from 9 to 5.
+working (n) - việc làm - VD: Her working on the project paid off in the end.
+worked (v) - đã làm việc (quá khứ của "work") - VD: Last week, they worked on the presentation.
+rest
+rest (v) - nghỉ ngơi - VD: She needs to rest after a long day at work.
+resting (n) - sự nghỉ ngơi - VD: His resting on the couch helps him recharge.
+rested (v) - đã nghỉ ngơi (quá khứ của "rest") - VD: Yesterday, they rested in the park.
+shop
+shop (v) - mua sắm - VD: She likes to shop for clothes on weekends.
+shopping (n) - việc mua sắm - VD: His shopping for groceries was interrupted by a phone call.
+shopped (v) - đã mua sắm (quá khứ của "shop") - VD: Last month, they shopped for new furniture.
+clean
+clean (v) - làm vệ sinh - VD: They clean the house every Saturday morning.
+cleaning (n) - việc làm vệ sinh - VD: Her cleaning of the kitchen was thorough.
+cleaned (v) - đã làm vệ sinh (quá khứ của "clean") - VD: Yesterday, she cleaned the windows.
+cook
+cook (v) - nấu ăn - VD: He likes to cook dinner for his family.
+cooking (n) - việc nấu ăn - VD: Her cooking skills are impressive.
+cooked (v) - đã nấu ăn (quá khứ của "cook") - VD: Last night, they cooked a delicious meal together.
+read
+read (v) - đọc sách - VD: She reads a book before going to bed.
+reading (n) - việc đọc sách - VD: His reading of the newspaper keeps him informed.
+read (adj) - đã đọc (quá khứ của "read") - VD: Yesterday, she read a novel.
+hope
+hope (n) - hy vọng - VD: He has hope for a better future.
+hopeful (adj) - đầy hy vọng - VD: Her hopeful outlook brightened everyone's mood.
+hoped (v) - đã hy vọng (quá khứ của "hope") - VD: Last year, they hoped for a successful outcome.
+suffer
+suffer (v) - đau khổ - VD: He suffers from chronic pain.
+suffering (n) - sự đau khổ - VD: Her suffering from the loss of a loved one was profound.
+suffered (v) - đã đau khổ (quá khứ của "suffer") - VD: Last month, they suffered through a difficult time.
+excite
+excite (v) - phấn khích - VD: The news of his promotion excites him.
+exciting (adj) - phấn khích - VD: Her exciting adventures abroad were unforgettable.
+excited (adj) - phấn khích - VD: She was excited to start her new job.
+excited (v) - đã phấn khích (quá khứ của "excite") - VD: Last year, they excitedly planned their trip.
+regret
+regret (v) - hối tiếc - VD: He regrets not studying harder in school.
+regretful (adj) - hối tiếc - VD: Her regretful tone suggested she wished she had done things differently.
+regretted (v) - đã hối tiếc (quá khứ của "regret") - VD: Last week, she regretted saying something hurtful.
